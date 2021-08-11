@@ -1,0 +1,28 @@
+.todoListMain {
+    height: 250px;
+}
+
+.todoListMain .header {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 50px;
+}
+
+.todoListMain button {
+    margin-left: 5px;
+    cursor: pointer;
+    width: 60px;
+}
+
+ul {
+    padding: 0 180px;
+}
+
+li {
+    list-style: none;
+    padding: 5px;
+    background-color: aquamarine;
+    border-radius: 10px;
+    margin: 5px 0;
+}
